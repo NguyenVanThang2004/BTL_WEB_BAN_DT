@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C\\LAP_TRINH_WEB\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {}
+    "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {}
   },
   "projects": {
-    "E:\\C\\LAP_TRINH_WEB\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {
+    "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C\\LAP_TRINH_WEB\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+        "projectUniqueName": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
         "projectName": "BTL_WEB_BAN_DT",
-        "projectPath": "E:\\C\\LAP_TRINH_WEB\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
-        "packagesPath": "C:\\Users\\HH\\.nuget\\packages\\",
-        "outputPath": "E:\\C\\LAP_TRINH_WEB\\BTL_WEB_BAN_DT\\obj\\",
+        "projectPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,29 +48,33 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0-rc.2.24474.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0-rc.2.24474.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[9.0.0-rc.2.24474.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[9.0.0-rc.2.24508.2, )"
             },
             "X.PagedList": {
               "target": "Package",
-              "version": "[10.0.3, )"
+              "version": "[10.5.3, )"
             },
             "X.PagedList.Mvc.Core": {
               "target": "Package",
-              "version": "[10.0.3, )"
+              "version": "[10.5.3, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.7.1, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
