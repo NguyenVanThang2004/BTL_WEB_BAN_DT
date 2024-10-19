@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTL_WEB_BAN_DT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8aa7192ba5d19ae51c883db0330c2257d337451")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0bc2b254aec6530282b7c09eceb20a24967255d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTL_WEB_BAN_DT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTL_WEB_BAN_DT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
