@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {}
+    "D:\\LTWeb\\WEB_DT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {}
   },
   "projects": {
-    "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {
+    "D:\\LTWeb\\WEB_DT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+        "projectUniqueName": "D:\\LTWeb\\WEB_DT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
         "projectName": "BTL_WEB_BAN_DT",
-        "projectPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\obj\\",
+        "projectPath": "D:\\LTWeb\\WEB_DT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\LTWeb\\WEB_DT\\BTL_WEB_BAN_DT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[9.0.0-rc.2.24508.2, )"
+              "version": "[8.0.6, )"
             },
             "X.PagedList": {
               "target": "Package",
