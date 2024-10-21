@@ -7785,19 +7785,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\OS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+      "projectUniqueName": "D:\\Năm 3\\Lập trình web\\Bài tập lớn\\WebBanDT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
       "projectName": "BTL_WEB_BAN_DT",
-      "projectPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\KiemTraWeb\\BTL_WEB_BAN_DT\\obj\\",
+      "projectPath": "D:\\Năm 3\\Lập trình web\\Bài tập lớn\\WebBanDT\\BTL_WEB_BAN_DT\\BTL_WEB_BAN_DT.csproj",
+      "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
+      "outputPath": "D:\\Năm 3\\Lập trình web\\Bài tập lớn\\WebBanDT\\BTL_WEB_BAN_DT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

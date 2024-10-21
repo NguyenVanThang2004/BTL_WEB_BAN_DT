@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Năm 3/Lập trình web/Bài tập lớn/WebBanDT/BTL_WEB_BAN_DT/Views/Home/CongTruSanPham.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25nVHJ1U2FuUGhhbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Năm 3/Lập trình web/Bài tập lớn/WebBanDT/BTL_WEB_BAN_DT/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,10 +48,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Năm 3/Lập trình web/Bài tập lớn/WebBanDT/BTL_WEB_BAN_DT/Views/Shared/_LayoutDienThoai.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREaWVuVGhvYWkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Năm 3/Lập trình web/Bài tập lớn/WebBanDT/BTL_WEB_BAN_DT/Views/Shared/_LayoutGioHang.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHaW9IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Năm 3/Lập trình web/Bài tập lớn/WebBanDT/BTL_WEB_BAN_DT/Views/Shared/_ValidationScriptsPartial.cshtml]

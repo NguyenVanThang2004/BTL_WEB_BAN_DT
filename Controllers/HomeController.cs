@@ -18,6 +18,12 @@ namespace BTL_WEB_BAN_DT.Controllers
             return View();
         }
 
+        public IActionResult CongTruSanPham()
+        {
+            return View();
+        }
+
+
         public IActionResult Privacy()
         {
             return View();

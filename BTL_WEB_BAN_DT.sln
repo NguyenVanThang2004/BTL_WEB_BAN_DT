@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_WEB_BAN_DT", "BTL_WEB_BAN_DT.csproj", "{D872703C-3300-4A20-AE6D-EF5BABD7F8FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTL_WEB_BAN_DT", "BTL_WEB_BAN_DT.csproj", "{D872703C-3300-4A20-AE6D-EF5BABD7F8FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
